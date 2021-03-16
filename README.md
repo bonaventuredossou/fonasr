@@ -12,3 +12,11 @@ Building an end-to-end Speech Recognition model in PyTorch for Fon with the code
 
 Using this, please cite:
 
+@article{2103.07762,
+Author = {Bonaventure F. P. Dossou and Chris C. Emezue},
+Title = {OkwuGbé: End-to-End Speech Recognition for Fon and Igbo},
+Year = {2021},
+Eprint = {arXiv:2103.07762},
+Howpublished = {African NLP, EACL 2021},
+}
+
