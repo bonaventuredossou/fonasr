@@ -7,8 +7,7 @@ OkwuGbé is a step towards building speech recognition systems for African low-r
 
 ## Experiments
 Here is the open-source code for the End2End Automatic Speech Recognition Model and data preprocessing steps for Fon language.</br>
-Igbo implementation [here](https://github.com/chrisemezue/IgboASR)</br>
-For the full model architecture, see [here](https://drive.google.com/file/d/1gT4r1R8Iq_183WkU3l0nNtdy4YYvYHPp/view?usp=sharing)</br>
+The Igbo implementation [here](https://github.com/chrisemezue/IgboASR) and for the full model architecture, see [here](https://drive.google.com/file/d/1gT4r1R8Iq_183WkU3l0nNtdy4YYvYHPp/view?usp=sharing)</br>
 
 Implementation of Fon Automatic Speech Recognition model, from original paper: *«OkwuGbé: End-to-End Speech Recognition for Fon and Igbo»*, *Accepted at African NLP, EACL 2021.*
 
