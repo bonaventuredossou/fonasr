@@ -1,6 +1,6 @@
 # Fon Automatic Speech Recognition (ASR)
 
-End2End Automatic Speech Recognition Model in PyTorch for Fon
+End2End Automatic Speech Recognition Model in PyTorch for Fon - Igbo implementation [here](https://github.com/chrisemezue/IgboASR)
 
 Implementation of Fon Automatic Speech Recognition model, from original paper: *«OkwuGbé: End-to-End Speech Recognition for Fon and Igbo»*, *Accepted at African NLP, EACL 2021.*
 
