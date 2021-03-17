@@ -6,8 +6,9 @@ This is based on our work on automatic speech recognition models for Igbo and Fo
 OkwuGbé is a step towards building speech recognition systems for African low-resourced languages. Using Fon and Igbo as our case study, we conduct a comprehensive linguistic analysis of each language and describe the creation of end-to-end, deep neural network-based speech recognition models for both languages.
 
 ## Experiments
-Here is the open-source code for the End2End Automatic Speech Recognition Model and data preprocessing steps for Fon language - Igbo implementation [here](https://github.com/chrisemezue/IgboASR)
-For the full model architecture, see [here](https://drive.google.com/file/d/1gT4r1R8Iq_183WkU3l0nNtdy4YYvYHPp/view?usp=sharing)
+Here is the open-source code for the End2End Automatic Speech Recognition Model and data preprocessing steps for Fon language.</br>
+Igbo implementation [here](https://github.com/chrisemezue/IgboASR)</br>
+For the full model architecture, see [here](https://drive.google.com/file/d/1gT4r1R8Iq_183WkU3l0nNtdy4YYvYHPp/view?usp=sharing)</br>
 
 Implementation of Fon Automatic Speech Recognition model, from original paper: *«OkwuGbé: End-to-End Speech Recognition for Fon and Igbo»*, *Accepted at African NLP, EACL 2021.*
 
